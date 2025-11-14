@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding:0px;
+    padding:0px;   
 }
 
 body{
@@ -8,6 +8,7 @@ body{
     padding-top: 30px;
     box-sizing: border-box;
     background-color: #eae1de;
+    
 }
 
 .titulo{
